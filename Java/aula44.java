@@ -17,3 +17,4 @@ public class aula44 {
     }
 }
 // em quanto nao foi digitado o numero 0, continuara o laço de repetição. 
+// sempre verificar a condição que esta no while. 
